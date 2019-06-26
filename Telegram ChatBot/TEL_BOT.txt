@@ -1,0 +1,11 @@
+2019-06-26 15:07:25; ID: 713755406; Message: /user_check; Entra a /user_check
+2019-06-26 15:07:28; ID: 713755406; Message: /user_check_others; Entra a /user_check_others
+2019-06-26 15:07:32; ID: 713755406; Message: TestUser-6; Entra a /user_check_others2
+2019-06-26 15:07:39; ID: 713755406; Message: /convocations; Entra a /convocations
+2019-06-26 15:07:40; ID: 713755406; Message: VIEW; Entra a /show_results
+2019-06-26 15:07:46; ID: 713755406; Message: PREVIOUS; Entra a /con_button
+2019-06-26 15:07:51; ID: 713755406; Message: NEXT; Entra a /con_button
+2019-06-26 15:07:53; ID: 713755406; Message: NEXT; Entra a /con_button
+2019-06-26 15:07:58; ID: 713755406; Message: NEXT; Entra a /con_button
+2019-06-26 15:08:00; ID: 713755406; Message: NEXT; Entra a /con_button
+2019-06-26 15:08:02; ID: 713755406; Message: CLOSE; Entra a /con_button
